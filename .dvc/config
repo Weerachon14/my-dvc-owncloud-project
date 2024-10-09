@@ -1,6 +1,6 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = http://192.168.161.140/remote.php/webdav/dvc-storage
+    url = http://192.168.161.140/owncloud/remote.php/dav/files/Weerachon/dvc-storage
     user = Weerachon
     password = SunZy2544_
