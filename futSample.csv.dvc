@@ -1,6 +1,0 @@
-outs:
-- md5: 9e4c2b0e45dd4c7aaa351f59042e723d
-  size: 8530
-  isexec: true
-  hash: md5
-  path: futSample.csv
