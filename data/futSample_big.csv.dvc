@@ -1,0 +1,5 @@
+outs:
+- md5: ea84262323ce8551936b15805941d431
+  size: 25590
+  hash: md5
+  path: futSample_big.csv
