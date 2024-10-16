@@ -4,3 +4,4 @@
     url = http://192.168.161.140/owncloud/remote.php/dav/files/Sun/dvc
     user = Sun
     password = SunZy2544_
+    auth = basic
