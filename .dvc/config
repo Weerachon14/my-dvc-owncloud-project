@@ -1,7 +1,7 @@
 [core]
     remote = owncloud_webdav
 ['remote "owncloud_webdav"']
-    url = http://192.168.161.140/owncloud/remote.php/dav/files/Sun/dvc
+    url = http://192.168.161.140/owncloud/remote.php/dav/files/Sun/dvc-project
+    auth = basic
     user = Sun
     password = SunZy2544_
-    auth = basic
